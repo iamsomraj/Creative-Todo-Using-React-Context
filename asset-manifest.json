@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Creative-Todo-Using-React-Context/static/css/main.95c25e58.chunk.css",
+    "main.js": "/Creative-Todo-Using-React-Context/static/js/main.4d2833db.chunk.js",
+    "main.js.map": "/Creative-Todo-Using-React-Context/static/js/main.4d2833db.chunk.js.map",
+    "runtime-main.js": "/Creative-Todo-Using-React-Context/static/js/runtime-main.f764ee9c.js",
+    "runtime-main.js.map": "/Creative-Todo-Using-React-Context/static/js/runtime-main.f764ee9c.js.map",
+    "static/js/2.4ba77b2b.chunk.js": "/Creative-Todo-Using-React-Context/static/js/2.4ba77b2b.chunk.js",
+    "static/js/2.4ba77b2b.chunk.js.map": "/Creative-Todo-Using-React-Context/static/js/2.4ba77b2b.chunk.js.map",
+    "static/js/3.dcea109c.chunk.js": "/Creative-Todo-Using-React-Context/static/js/3.dcea109c.chunk.js",
+    "static/js/3.dcea109c.chunk.js.map": "/Creative-Todo-Using-React-Context/static/js/3.dcea109c.chunk.js.map",
+    "index.html": "/Creative-Todo-Using-React-Context/index.html",
+    "static/css/main.95c25e58.chunk.css.map": "/Creative-Todo-Using-React-Context/static/css/main.95c25e58.chunk.css.map",
+    "static/js/2.4ba77b2b.chunk.js.LICENSE.txt": "/Creative-Todo-Using-React-Context/static/js/2.4ba77b2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f764ee9c.js",
+    "static/js/2.4ba77b2b.chunk.js",
+    "static/css/main.95c25e58.chunk.css",
+    "static/js/main.4d2833db.chunk.js"
+  ]
+}
